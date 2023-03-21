@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **a CrowdFunding application based on JEE technology**
+- 🔭 I’m currently working on **a Smart Parking System, based on IOT technologies linked to a mobile application. AI libraries and ML will be applicated on the results of the work**
 
 - 📝 I regularly write articles on [https://medium.com/@kenzahassanine1](https://medium.com/@kenzahassanine1)
 
