@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on ** utilizing real-time Machine Learning to perform sentiment analysis on Tesla-related data, aiming to predict Tesla's closing stock prices based on the sentiments extracted from news articles**
+- 🔭 I’m currently working on ** an end to end LLM project using LangChain**
 
 - 📝 I regularly write articles on [https://medium.com/@kenzahassanine1](https://medium.com/@kenzahassanine1)
 
