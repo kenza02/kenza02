@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kenzahassanine1](https://medium.com/@kenzahassanine1)
 
-- ⚡ Fun fact **I can't think of anything fun about myself**
+- ⚡ Fun fact **I can't think of anything fun to write**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
